@@ -1,8 +1,5 @@
 # 💫 About Me:
 🐝 I'm a student at Georgia Institute of Technology studying Computer Science and Design Media.<br>💻 I am currently working on expanding my coding repertoire to build by full-stack development knowledge!<br>👯 I'm looking to to collaborate on projects that are user-focused and put accessible design first.<br>🌱 I'm currently learning how to perform information visualization using D3.js.<br>💬 Ask me about my experience as a co-op student at Georgia Tech Research Institute!<br><br>
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hmillersarah) 
 
 # 💻 Tech Stack:
